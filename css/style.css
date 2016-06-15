@@ -1,0 +1,30 @@
+h1 {
+  color: blue;
+}
+
+.row {
+  margin: 0 auto;
+  max-width: 1200px;
+  overflow: hidden;
+}
+
+div.column {
+  float: left;
+  width: 40%;
+  border: px solid;
+  padding: 11px;
+}
+
+p2 {
+  color: red;
+  font-size: 47px;
+}
+
+img {
+  max-width: 100%;
+}
+
+p3 {
+  color: gray;
+  font-size: 50px;
+}
