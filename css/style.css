@@ -1,8 +1,18 @@
-h1 {
-  color: blue;
+body {
+  
 }
 
-.row {
+h1 {
+  color: blue;
+  float: left;
+  height: 1%;
+  width: 80%;
+  position: relative;
+  left: 14%;
+  
+}
+
+row {
   margin: 0 auto;
   max-width: 1200px;
   overflow: hidden;
@@ -12,19 +22,91 @@ div.column {
   float: left;
   width: 40%;
   border: px solid;
-  padding: 11px;
+  padding: 1px;
 }
 
-p2 {
+c {
+  color: white;
+  font-size: 25px;
+  height: 5% solid;
+  width: 46% solid;
+  position: absolute;
+  left: 25%;
+  top: 13%;
+  border: px solid;
+  
+}
+
+d {
+  color: white;
+  font-size: 25px;
+  height: 5%;
+  width: 46%;
+  position: absolute;
+  left: 19%;
+  top: 13%;
+  
+}
+e {
+  
+  color: white;
+  font-size: 25px;
+  height: 5% solid;
+  width: 46% solid;
+  position: absolute;
+  left: 11%;
+  top: 13%;
+}
+
+a {
+
+  text-decoration: none;
+  color: blue;
+  font-size: 30px;
+  left: 6%;
+  position: absolute;
+  top: 6%;
+}  
+
+span2 {
+   background-color: darkblue;
+  
+  
+}
+
+button {
+  padding: 14px;
+  border: 0;
+  border-radius: 10px;
   color: red;
-  font-size: 47px;
+  background-color: transparent;
+  position: absolute;
+  top: 13%;
+  left: 25%;
+  width: 3.4% ;
 }
 
-img {
-  max-width: 100%;
-}
+b {
+  height: 0px;
+ width: 490px;
+ content: "";
+ border: solid 15px;
+ display: block;
+ position: absolute;
+ top: 13%;
+ right: 61.5%;
+ border-left-color: darkblue;
+ border-right-color: darkblue;
+  border-top-color: darkblue;
+  border-bottom-color: darkblue;
 
-p3 {
-  color: gray;
-  font-size: 50px;
 }
+  
+
+
+
+
+/*transparent///
+overflow: scroll;
+Color Code web: http://www.w3schools.com/colors/colors_picker.asp
+<img src = >
