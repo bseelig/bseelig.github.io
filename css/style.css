@@ -1,12 +1,19 @@
 body {
-  
+  border: 0px ;
+  height: 593px;
+  width: 1000px;
+  border-style: solid;
+  border-width: 0px;
+  margin: 0px;
+  overflow: scroll;
+  background-color: black;  
 }
 
 h1 {
   color: blue;
   float: left;
   height: 1%;
-  width: 80%;
+  width: 873%;
   position: relative;
   left: 14%;
   
@@ -25,26 +32,14 @@ div.column {
   padding: 1px;
 }
 
-c {
-  color: white;
-  font-size: 25px;
-  height: 5% solid;
-  width: 46% solid;
-  position: absolute;
-  left: 25%;
-  top: 13%;
-  border: px solid;
-  
-}
-
 d {
   color: white;
   font-size: 25px;
   height: 5%;
   width: 46%;
-  position: absolute;
-  left: 19%;
-  top: 13%;
+  position: relative;
+  left: 70%;
+  bottom: -33px;
   
 }
 e {
@@ -53,48 +48,67 @@ e {
   font-size: 25px;
   height: 5% solid;
   width: 46% solid;
-  position: absolute;
-  left: 11%;
-  top: 13%;
+  position: relative;
+  left: 14%;
+  bottom: -32px;
 }
-
+ c {
+  color: white;
+  font-size: 25px;
+  height: 5%;
+  width: 46%;
+  position: absolute;
+  left: 395px;
+  top: 76px;
+   text-decoration: none;
+}
 a {
 
   text-decoration: none;
   color: blue;
   font-size: 30px;
-  left: 6%;
+  left: %;
   position: absolute;
-  top: 6%;
+  top: %;
 }  
 
+h {
+
+color: white;
+  font-size: 25px;
+  height: 5%;
+  width: 46%;
+  position: absolute;
+  
+}
 span2 {
    background-color: darkblue;
   
   
 }
-
 button {
   padding: 14px;
   border: 0;
   border-radius: 10px;
   color: red;
-  background-color: transparent;
+  background-color: blue;
+  height: 5px;
+  width: 67px;
   position: absolute;
-  top: 13%;
-  left: 25%;
-  width: 3.4% ;
+  left: 39px;
+  top: 77px;
+  border: px solid;
 }
 
-b {
+t {
   height: 0px;
  width: 490px;
  content: "";
  border: solid 15px;
  display: block;
- position: absolute;
- top: 13%;
- right: 61.5%;
+ position: relative;
+ bottom: -75px;
+ right: -30%;
  border-left-color: darkblue;
  border-right-color: darkblue;
   border-top-color: darkblue;
