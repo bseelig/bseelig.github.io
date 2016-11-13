@@ -13,7 +13,7 @@ h1 {
   color: blue;
   float: left;
   height: 1%;
-  width: 873%;
+  width: 93%;
   position: relative;
   left: 14%;
   
@@ -39,7 +39,7 @@ d {
   width: 46%;
   position: relative;
   left: 70%;
-  bottom: -33px;
+  bottom: 4px;
   
 }
 e {
@@ -50,7 +50,7 @@ e {
   width: 46% solid;
   position: relative;
   left: 14%;
-  bottom: -32px;
+  bottom: 5px;
 }
  c {
   color: white;
@@ -63,13 +63,8 @@ e {
    text-decoration: none;
 }
 a {
-
-  text-decoration: none;
   color: blue;
-  font-size: 30px;
-  left: %;
-  position: absolute;
-  top: %;
+  text-decoration: none;
 }  
 
 h {
@@ -91,7 +86,7 @@ button {
   border: 0;
   border-radius: 10px;
   color: red;
-  background-color: blue;
+  background-color: transparent;
   height: 5px;
   width: 67px;
   position: absolute;
@@ -115,10 +110,6 @@ t {
   border-bottom-color: darkblue;
 
 }
-  
-
-
-
 
 /*transparent///
 overflow: scroll;

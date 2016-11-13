@@ -1,0 +1,168 @@
+body {
+  border: 0px;
+  height: 593px;
+  width: 1000px;
+  border-style: solid;
+  border-width: 0px;
+  margin: 0px;
+  overflow: scroll;
+  background-color: black;
+}
+
+h1 {
+  color: blue;
+  float: left;
+  height: 1%;
+  width: 85%;
+  position: relative;
+  left: 14%;
+}
+
+b1{
+  font-size: 40px;
+  position: relative;
+  right: 703px;
+  top: 20px;
+}
+
+b2 {
+  color: blue;
+  float: left;
+  height: 1%;
+  width: 85%;
+  position: relative;
+  left: 14%;
+  top: 20px;
+  font-size: 40px;
+  
+}
+
+row {
+  margin: 0 auto;
+  max-width: 1200px;
+  overflow: hidden;
+}
+
+div.column {
+  float: left;
+  width: 40%;
+  border: px solid;
+  padding: 1px;
+}
+
+d2 {
+  color: white;
+  font-size: 25px;
+  height: 3%;
+  width: 4%;
+  position: relative;
+  left: 70%;
+  bottom: -48px;
+}
+ 
+
+a {
+  text-decoration: none;
+  color: transparent;
+}
+
+s {
+  color: white;
+  font-size: 25px;
+  height: 5%;
+  width: 46%;
+  position: absolute;
+  left: 395px;
+  top: 76px;
+  text-decoration: none;
+}
+
+c {
+  color: white;
+  font-size: 25px;
+  height: 5%;
+  width: 46%;
+  position: absolute;
+  left: 234px;
+  top: 25px;
+}
+
+span2 {
+  background-color: darkblue;
+}
+
+t {
+  height: 0px;
+  width: 250px;
+  content: "";
+  border: solid 15px;
+  display: block;
+  position: relative;
+  bottom: -95px;
+  right: -30%;
+  border-left-color: darkblue;
+  border-right-color: darkblue;
+  border-top-color: darkblue;
+  border-bottom-color: darkblue;
+}
+
+w {
+  color: white;
+  font-size: 25px;
+  height: 5%;
+  width: 46%;
+  position: relative;
+  left: 54px;
+  bottom: -49px;
+  text-decoration: none;
+}
+
+w2 {
+
+  color: white;
+  font-size: 25px;
+  height: 5%;
+  width: 46%;
+  position: relative;
+  left: 153px;
+  bottom: -49px;
+  text-decoration: none;
+}
+ 
+m {
+  color: yellow;
+  font-size: 30px;
+  position: relative;
+  right: 26%;
+  top: 150px;
+  width: 100%;
+}
+
+p {
+   color: white;
+  font-size: 25px;
+  height: 5%;
+  width: 46%;
+  position: relative;
+  left: 290px;
+  bottom: 6px;
+  text-decoration: none;
+  
+}
+
+p2 {
+   color: white;
+  font-size: 25px;
+  height: 5%;
+  width: 46%;
+  position: relative;
+  left: 92px;
+  bottom: -48px;
+  text-decoration: none;
+}
+  
+/*
+transparent
+overflow: scroll;
+Color Code web: http://www.w3schools.com/colors/colors_picker.asp
+<img src = >
