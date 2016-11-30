@@ -22,3 +22,8 @@ div {
   max-width: 1000px;
   padding: 30px;
 }
+
+.hidden {
+  display: none;
+  
+}
