@@ -1,8 +1,9 @@
 body {
   background-color:black;
   background-image: url("http://mars.nasa.gov/images/mars-globe-valles-marineris-enhanced.jpg");
-  background-size: 75% 750px;
+  background-size: 755px;
   background-repeat: no-repeat;
+  overflow: scroll;
 }
 
 button{
