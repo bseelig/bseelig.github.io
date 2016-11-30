@@ -1,0 +1,23 @@
+body {
+  background-color:black;
+  background-image: url("http://mars.nasa.gov/images/mars-globe-valles-marineris-enhanced.jpg");
+  background-size: 75% 750px;
+  background-repeat: no-repeat;
+}
+
+button{
+ color: lightgreen;
+ background-color: orange;
+ border-radius: 10px;
+ font-size: 25px;
+ top: 21px;
+ position: relative;
+ left: 54px;
+}
+
+div {
+  color: yellow;
+  font-size: 30px;
+  max-width: 1000px;
+  padding: 30px;
+}
