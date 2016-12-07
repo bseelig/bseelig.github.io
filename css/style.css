@@ -111,7 +111,11 @@ t {
 
 }
 
-/*transparent///
-overflow: scroll;
-Color Code web: http://www.w3schools.com/colors/colors_picker.asp
-<img src = >
+marquee {
+ position: absolute;
+ bottom: 0px;
+  font-size: 30px;
+  left: -800px;
+  width: 2500px;
+  color: white;
+}
