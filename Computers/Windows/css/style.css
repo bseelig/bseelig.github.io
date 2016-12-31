@@ -1,0 +1,157 @@
+body {
+  border: 0px ;
+  height: 593px;
+  width: 1000px;
+  border-style: solid;
+  border-width: 1px;
+  margin: 0px;
+  overflow: scroll;
+  background-color: black;
+}
+
+h1 {
+  color: blue;
+  float: left;
+  height: 1%;
+  width: 93%;
+  position: relative;
+  left: 14%;
+  
+}
+
+row {
+  margin: 0 auto;
+  max-width: 1200px;
+  overflow: hidden;
+}
+
+div.column {
+  float: left;
+  width: 40%;
+  border: px solid;
+  padding: 1px;
+}
+
+d {
+  color: white;
+  font-size: 25px;
+  height: 5%;
+  width: 46%;
+  position: relative;
+  left: 70%;
+  bottom: 4px;
+  
+}
+e {
+  color: white;
+  font-size: 25px;
+  height: 5% solid;
+  width: 46% solid;
+  position: relative;
+  left: 134px;
+  bottom: -15px;
+}
+ c {
+  color: white;
+  font-size: 25px;
+  position: absolute;
+  left: 395px;
+  top: 95px;
+   text-decoration: none;
+   background-color: darkblue;
+}
+a {
+  color: blue;
+  text-decoration: none;
+}  
+
+h {
+
+color: white;
+  font-size: 25px;
+  height: 5%;
+  width: 46%;
+  position: absolute;
+  
+}
+span2 {
+   background-color: darkblue;
+  
+}
+
+S {
+  color: white;
+  text-decoration: none;
+  position: relative;
+  top: 22px;
+  right: 152px;
+  font-size: 33px;
+  color: yellow;
+}
+
+f {
+  color: white;
+  position: absolute;
+  top: 155px;
+  font-size: 25px;
+  left: 135px;
+  width: 173px;
+}
+
+f {
+  background-color: darkblue;
+  
+}
+v {
+color: white;
+  position: absolute;
+  top: 243px;
+  font-size: 25px;
+  left: 125px;
+  width: 223px;
+  background-color: darkblue;
+
+}
+
+u {
+  text-decoration: none;
+  color: white;
+  background-color: darkblue;
+  font-size: 25px;
+  position: absolute;
+  left: 394px;
+  top: 240px;
+  width: 260px;
+}
+
+fr {
+  text-decoration: none;
+  color: white;
+  background-color: darkblue;
+  font-size: 25px;
+  position: absolute;
+  left:114px;
+  top: 330px;
+  width: 260px;
+}
+
+rdt {
+  left: 395px;
+  position: absolute;
+  top: 150px;
+  font-size: 25px;
+  width: 245px;
+  background-color: darkblue;
+  color: white;
+  
+}
+
+is {
+  color: white;
+  background-color: darkblue;
+  left: 395px;
+  position: absolute;
+  top: 325px;
+  font-size: 27px;
+  width: 260px;
+}
