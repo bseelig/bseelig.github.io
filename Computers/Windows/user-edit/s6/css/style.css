@@ -41,7 +41,7 @@ e {
   font-size: 25px;
   position: absolute;
   left: 395px;
-  top: 620px;
+  top: 420px;
    text-decoration: none;
    background-color: darkblue;
    
@@ -57,14 +57,8 @@ n {
   font-size: 30px;
   position: absolute;
   left: 104px;
-  top: 65px;
+  top: 105px;
   width: 859px;
-}
-
-img {
-   position: absolute;
-  left: 145px;
-  top: 400px;
 }
 
 H {
@@ -73,7 +67,7 @@ H {
   left: 104px;
   font-size: 29px;
   width: 760px;
-  top: 200px;
+  top: 230px;
 }
 
 b {
@@ -81,7 +75,7 @@ b {
   background-color: darkblue;
   font-size: 25px;
   position: absolute;
-  top: 620px;
+  top: 420px;
   left: 290px;
   text-decoration: none;
 }
@@ -91,15 +85,16 @@ s {
   font-size: 30px;
   text-decoration: none;
   top: 23px;
-  left: 260px;
+  left: 220px;
   position: absolute;
+  width: 650px;
 }
 
 p {
   color: yellow;
   font-size: 27px;
   text-decoration: none;
-  top: 263px;
+  top: 283px;
   left: 103px;
   width: 800px;
   position: absolute;

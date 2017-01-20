@@ -41,7 +41,7 @@ e {
   font-size: 25px;
   position: absolute;
   left: 395px;
-  top: 650px;
+  top: 350px;
    text-decoration: none;
    background-color: darkblue;
    
@@ -61,12 +61,6 @@ n {
   width: 519px;
 }
 
-img {
-   position: absolute;
-  left: 195px;
-  top: 230px;
-}
-
 H {
   color: yellow;
    position: absolute;
@@ -81,7 +75,7 @@ b {
   background-color: darkblue;
   font-size: 25px;
   position: absolute;
-  top: 650px;
+  top: 350px;
   left: 290px;
   text-decoration: none;
 }
