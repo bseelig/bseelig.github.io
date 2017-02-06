@@ -1,0 +1,171 @@
+body {
+  border: 0px ;
+  height: 593px;
+  width: 1000px;
+  border-style: solid;
+  border-width: 0px;
+  margin: 0px;
+  overflow: scroll;
+  background-color: black;  
+}
+
+h1 {
+  color: blue;
+  float: left;
+  height: 1%;
+  width: 93%;
+  position: relative;
+  left: 14%;
+  
+}
+
+row {
+  margin: 0 auto;
+  max-width: 1200px;
+  overflow: hidden;
+}
+
+div.column {
+  float: left;
+  width: 40%;
+  border: px solid;
+  padding: 1px;
+}
+
+d {
+  position: relative;
+  left: 240px;
+  bottom: 4px;  
+  display: block;
+  top: 33px;
+  background-color: white;
+  height: 260px;
+  width: 143px;
+  border-radius: 13px;
+
+}
+
+se {
+  position: relative;
+  left: 245px;
+  bottom: 4px;  
+  display: block;
+  top: -203px;
+  background-color: black;
+  height: 210px;
+  width: 133px;
+
+}
+
+bt {
+  position: relative;
+  left: 299px;
+  bottom: 4px;  
+  display: block;
+  top: -200px;
+  background-color: black;
+  height: 21px;
+  width: 21px;
+  border-radius: 113px;
+}
+bg {
+  position: relative;
+  left: 302px;
+  bottom: 4px;  
+  display: block;
+  top: -218px;
+  background-color: white;
+  height: 15px;
+  width: 15px;
+  border-radius: 113px;
+}
+sc {
+  position: relative;
+  left: 295px;
+  bottom: 4px;  
+  display: block;
+  top: -462px;
+  background-color: black;
+  height:4px;
+  width: 31px;
+  border-radius: 113px;
+}
+
+c {
+  position: relative;
+  left: 283px;
+  bottom: 4px;  
+  display: block;
+  top: -467px;
+  background-color: black;
+  height:6px;
+  width: 6px;
+  border-radius: 113px;
+}
+
+sl {
+  position: relative;
+  left: 306.5px;
+  bottom: 4px;  
+  display: block;
+  top: -480px;
+  background-color: transparent;
+  height:4px;
+  width: 1px;
+  border-radius: 113px;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+}  
+
+h {
+
+color: white;
+  font-size: 25px;
+  height: 5%;
+  width: 46%;
+  position: absolute;
+  
+}
+span2 {
+   background-color: darkblue;
+  
+}
+
+S {
+  text-decoration: none;
+  position: relative;
+  top: 18px;
+  right: 200px;
+  font-size: 33px;
+  color: yellow;
+}
+
+l {
+  color: red;
+  font-size: 29px;
+  position:relative;
+  left: 360px;
+  top: -506px;
+  width: 346px;
+}
+
+sl {
+   color: red;
+  font-size: 29px;
+  position:relative;
+  left: 390px;
+  top: -470px;
+  width: 346px;
+}
+
+he {
+   color: red;
+  font-size: 29px;
+  position:relative;
+  left: 303px;
+  top: -265px;
+  width: 346px;
+}
