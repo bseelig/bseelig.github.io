@@ -1,0 +1,87 @@
+body {
+  border: 0px;
+  height: 593px;
+  width: 1000px;
+  border-style: solid;
+  border-width: 0px;
+  margin: 0px;
+  overflow: scroll;
+  background-color: black;
+}
+
+h1 {
+  color: blue;
+  float: left;
+  height: 1%;
+  width: 93%;
+  position: relative;
+  left: 14%;
+  text-decoration: none;
+}
+
+row {
+  margin: 0 auto;
+  max-width: 1200px;
+  overflow: hidden;
+}
+
+div.column {
+  float: left;
+  width: 40%;
+  border: px solid;
+  padding: 1px;
+}
+
+S {
+  color: white;
+  text-decoration: none;
+  position: relative;
+  top: 22px;
+  right: 152px;
+  font-size: 33px;
+  color: yellow;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+}
+
+ho {
+  position: relative;
+  left: -80px;
+  font-size: 31px;
+  top: -30px;
+  color: blue;
+}
+
+at {
+  font-size: 28px;
+  color: white;
+  background-color: darkblue;
+  position: absolute;
+  left: 200px;
+  top: 150px;
+}
+
+ad {
+  font-size: 28px;
+  color: yellow;
+  position: absolute;
+  left: 200px;
+  top: 270px;
+  width: 550px;
+}
+
+fs {
+  font-size: 28px;
+  color: yellow;
+  position: absolute;
+  left: 150px;
+  top: 220px;
+  width: 550px;
+}
+
+b {
+  color: blue;
+}

@@ -1,0 +1,169 @@
+body {
+  border: 0px;
+  height: 593px;
+  width: 1000px;
+  border-style: solid;
+  border-width: 0px;
+  margin: 0px;
+  overflow: scroll;
+  background-color: black;
+}
+
+h1 {
+  color: blue;
+  float: left;
+  height: 1%;
+  width: 93%;
+  position: relative;
+  left: 14%;
+  text-decoration: none;
+}
+
+row {
+  margin: 0 auto;
+  max-width: 1200px;
+  overflow: hidden;
+}
+
+div.column {
+  float: left;
+  width: 40%;
+  border: px solid;
+  padding: 1px;
+}
+
+S {
+  text-decoration: none;
+  position: relative;
+  top: 22px;
+  right: 182px;
+  font-size: 33px;
+  color: yellow;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+}
+
+ho {
+  position: relative;
+  left: -80px;
+  font-size: 31px;
+  top: -30px;
+  color: blue;
+}
+
+n {
+  color: white;
+  text-decoration: none;
+  position: absolute;
+  top: 72px;
+  left: 222px;
+  font-size: 23px;
+  color: yellow;
+  width: 700px;
+}
+
+bs1 {
+  color: white;
+  background-color:darkblue;
+  font-size: 20px;
+  position: relative;
+  right: 400px;
+  top: 170px;
+}
+
+bs2 {
+  color: white;
+  background-color:darkblue;
+  font-size: 20px;
+  position: relative;
+  right: 630px;
+  top: 270px;
+}
+
+bs3 {
+  color: white;
+  background-color:darkblue;
+  font-size: 20px;
+  position: relative;
+  right: 285px;
+  top: 370px;
+}
+
+bs4 {
+  color: white;
+  background-color:darkblue;
+  font-size: 20px;
+  position: relative;
+  right: -120px;
+  top: 370px;
+}
+
+bs5 {
+  color: white;
+  background-color:darkblue;
+  font-size: 20px;
+  position: relative;
+  right: 155px;
+  top: 470px;
+}
+
+bs6 {
+  color: white;
+  background-color:darkblue;
+  font-size: 20px;
+  position: relative;
+  right: -100px;
+  top: 550px;
+}
+
+bp {
+  position: relative;
+  top: 800px;
+  left: 1300px;
+}
+
+rwt {
+  text-decoration: none;
+  position: relative;
+  top: -172px;
+  right: -382px;
+  font-size: 33px;
+  color: yellow;
+}
+
+s1 {
+  
+  width: 590px;
+  color: white;
+  position: absolute;
+  top: 120px;
+  font-size: 20px;
+  left: 870px;
+  background-color: darkblue;
+}
+
+cl {
+  color: red;
+}
+
+s2 {
+  font-size: 20px;
+    position: relative;
+  left: 870px;
+  color: white;
+  background-color: darkblue;
+  
+}
+
+s3 {
+  font-size: 20px;
+    position: relative;
+  left: 480px;
+  top: 80px;
+  color: white;
+  background-color: darkblue;
+  
+}
