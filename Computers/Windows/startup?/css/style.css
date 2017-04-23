@@ -1,0 +1,118 @@
+body {
+  border: 0px ;
+  height: 593px;
+  width: 1000px;
+  border-style: solid;
+  border-width: 0px;
+  margin: 0px;
+  overflow: scroll;
+  background-color: black;  
+}
+
+h1 {
+  color: blue;
+  float: left;
+  height: 1%;
+  width: 93%;
+  position: relative;
+  left: 14%;
+  
+}
+
+row {
+  margin: 0 auto;
+  max-width: 1200px;
+  overflow: hidden;
+}
+
+div.column {
+  float: left;
+  width: 40%;
+  border: px solid;
+  padding: 1px;
+}
+
+d {
+  color: white;
+  font-size: 25px;
+  height: 5%;
+  width: 46%;
+  position: relative;
+  left: 70%;
+  bottom: 4px;
+  
+}
+e {
+  
+  color: white;
+  font-size: 25px;
+  height: 5% solid;
+  width: 46% solid;
+  position: relative;
+  left: 134px;
+  bottom: -15px;
+}
+ c {
+  color: white;
+  font-size: 25px;
+  position: absolute;
+  left: 395px;
+  top: 95px;
+   text-decoration: none;
+   background-color: darkblue;
+}
+a {
+  color: blue;
+  text-decoration: none;
+}  
+
+h {
+
+color: white;
+  font-size: 25px;
+  height: 5%;
+  width: 46%;
+  position: absolute;
+  
+}
+span2 {
+   background-color: darkblue;
+  
+}
+
+S {
+  color: white;
+  text-decoration: none;
+  position: relative;
+  top: 22px;
+  right: 152px;
+  font-size: 33px;
+  color: yellow;
+}
+
+bu {
+  color: white;
+  position: absolute;
+  top: 173px;
+  left: 394px;
+  font-size: 24px;
+  background-color: darkblue;
+}
+
+
+v {
+  color: black;
+  font-size: 310px;
+  background-color: black;
+  position: absolute;
+  top: 63px;
+  right: 359p;
+}
+bn {
+  color: white;
+  position: absolute;
+  top: 173px;
+  left: 144px;
+  font-size: 24px;
+  background-color: darkblue;
+}
