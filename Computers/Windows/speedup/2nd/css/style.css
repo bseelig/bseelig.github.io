@@ -75,13 +75,12 @@ cm {
 
 n {
   color: white;
+  background-color: darkblue;
   text-decoration: none;
   position: absolute;
   top: 272px;
-  left: 152px;
-  font-size: 23px;
-  color: yellow;
-  width: 700px;
+  left: 200px;
+  font-size: 27px;
 }
 
 second {
@@ -89,6 +88,38 @@ second {
   background-color: darkblue;
   position: absolute;
   font-size: 27px;
-  left: 150px;
-  top: 380px;
+  left: 200px;
+  top: 330px;
+}
+
+section {
+  color: white;
+  background-color: darkblue;
+  position: absolute;
+  font-size: 27px;
+  left: 200px;
+  top: 390px;
+  width: 900px;
+}
+
+boost {
+  color: white;
+  background-color: darkblue;
+  position: absolute;
+  font-size: 27px;
+  left: 200px;
+  top: 510px;
+}
+
+note {
+  color: yellow;
+  position: absolute;
+  font-size: 27px;
+  left: 200px;
+  top: 570px;
+}
+
+c {
+  position: absolute;
+  top: 870px;
 }
