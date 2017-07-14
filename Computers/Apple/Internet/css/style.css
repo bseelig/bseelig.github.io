@@ -1,0 +1,137 @@
+body {
+  border: 0px;
+  height: 593px;
+  width: 1600px;
+  border-style: solid;
+  border-width: 0px;
+  margin: 0px;
+  overflow: scroll;
+  background-color: black;
+}
+
+h1 {
+  color: blue;
+  float: left;
+  height: 1%;
+  width: 93%;
+  position: relative;
+  left: 4%;
+  text-decoration: none;
+}
+
+row {
+  margin: 0 auto;
+  max-width: 1200px;
+  overflow: hidden;
+}
+
+div.column {
+  float: left;
+  width: 40%;
+  border: px solid;
+  padding: 1px;
+}
+
+S {
+  color: white;
+  text-decoration: none;
+  position: absolute;
+  top: 22px;
+  left: 252px;
+  font-size: 33px;
+  color: yellow;
+  width: 950px;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+}
+
+ho {
+  position: relative;
+  left: -36px;
+  font-size: 31px;
+  top: -30px;
+  color: blue;
+}
+
+at {
+  font-size: 28px;
+  color: white;
+  background-color: darkblue;
+  position: absolute;
+  left: 200px;
+  top: 250px;
+}
+
+n {
+  color: white;
+  text-decoration: none;
+  position: absolute;
+  top: 272px;
+  left: 152px;
+  font-size: 23px;
+  color: yellow;
+  width: 700px;
+}
+
+p1 {
+  color: yellow;
+  font-size: 28px;
+  position: absolute;
+  top: 122px;
+  left: 250px;
+  width: 500px;
+}
+
+gc {
+  font-size: 28px;
+  color: white;
+  background-color: darkblue;
+  position: absolute;
+  left: 200px;
+  top: 310px;
+}
+
+adb {
+  font-size: 28px;
+  color: white;
+  background-color: darkblue;
+  position: absolute;
+  left: 200px;
+  top: 370px;
+}
+
+ad {
+  font-size: 28px;
+  color: yellow;
+  position: absolute;
+  left: 500px;
+  top: 370px;
+}
+
+atw {
+  color:  yellow;
+  font-size: 27px;
+  top: 313px;
+  position: absolute;
+  left: 430px;
+}
+
+f {
+  color: yellow;
+  top: 433px;
+  position: absolute;
+  left: 210px;
+  font-size: 30px;
+}
+
+inst {
+  color: yellow;
+  position: absolute;
+  left: 210px;
+  top: 300px;
+  font-size: 23px;
+  width: 830px;
+}

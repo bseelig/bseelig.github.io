@@ -93,7 +93,7 @@ span2 {
 
 t {
   height: 0px;
-  width: 250px;
+  width: 350px;
   content: "";
   border: solid 15px;
   display: block;
@@ -160,9 +160,11 @@ p2 {
   bottom: -48px;
   text-decoration: none;
 }
-  
-/*
-transparent
-overflow: scroll;
-Color Code web: http://www.w3schools.com/colors/colors_picker.asp
-<img src = >
+
+cb {
+  color: white;
+  position: relative;
+  left: -512px;
+  bottom: -83px;
+  font-size: 26px;
+}
