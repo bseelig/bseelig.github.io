@@ -6,7 +6,7 @@ body {
   border-width: 0px;
   margin: 0px;
   overflow: scroll;
-  background-color: black;  
+  background-color: black; 
 }
 
 h1 {
@@ -120,7 +120,3 @@ marquee {
   color: white;
 }
 
-/*transparent///
-overflow: scroll;
-Color Code web: http://www.w3schools.com/colors/colors_picker.asp
-<img src = >
