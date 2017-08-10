@@ -79,3 +79,10 @@ b {
   left: 290px;
   text-decoration: none;
 }
+
+img {
+   position: absolute;
+  left: 875px;
+  width: 350px;
+  top: 70px;
+}

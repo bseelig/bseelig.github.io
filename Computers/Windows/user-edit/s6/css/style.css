@@ -99,3 +99,10 @@ p {
   width: 800px;
   position: absolute;
 }
+
+img {
+   position: absolute;
+  left: 145px;
+  width: 650px;
+  top: 470px;
+}

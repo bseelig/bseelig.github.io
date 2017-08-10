@@ -42,14 +42,15 @@ d {
   bottom: 4px;
   
 }
-e {
+button {
   
+  background-color: black;
   color: white;
-  font-size: 25px;
+  font-size: 22px;
   height: 5% solid;
   width: 46% solid;
   position: relative;
-  left: 134px;
+  left: -534px;
   bottom: -15px;
 }
  c {
@@ -91,11 +92,11 @@ S {
 }
 
 bu {
-  color: white;
+  color: black;
   text-decoration: none;
   position: relative;
-  top: 72px;
-  right: 59px;
+  top: 22px;
+  right: -139px;
   font-size: 24px;
   color: white;
   background-color: darkblue;
@@ -109,4 +110,15 @@ is {
   top: 155px;
   font-size: 27px;
   width: 230px;
+}
+
+se {
+   background-color: white;
+  position: relative;
+  left: 628px;  
+  display: block;
+  top: -7px;
+  height: 43px;
+  width: 253px;
+  background-color: black;
 }

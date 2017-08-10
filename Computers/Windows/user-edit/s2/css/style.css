@@ -85,3 +85,10 @@ b {
   left: 290px;
   text-decoration: none;
 }
+
+img {
+   position: absolute;
+  left: 650px;
+  width: 350px;
+  top: 70px;
+}

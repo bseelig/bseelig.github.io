@@ -134,7 +134,7 @@ m {
   font-size: 30px;
   position: relative;
   right: 26%;
-  top: 150px;
+  top: 170px;
   width: 100%;
 }
 
@@ -167,4 +167,30 @@ cb {
   left: -512px;
   bottom: -83px;
   font-size: 26px;
+}
+
+iimg {
+  position: relative;
+  left: -107px;
+  top: 84px;
+  width: 6px;
+}
+
+ii {
+    position: relative;
+  left: -90px;
+  top: -84px;
+  width: 6px;
+}
+
+iii {
+  bottom: 86px;
+  right: 97px;
+  position: relative;
+}
+
+iv {
+   position: relative;
+   bottom: 86px;
+  right: -60px;
 }
