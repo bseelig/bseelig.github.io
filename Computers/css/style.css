@@ -194,3 +194,11 @@ iv {
    bottom: 86px;
   right: -60px;
 }
+
+note {
+ bottom: 36px;
+  right: 97px;
+  position: relative;
+  color: red;
+  font-size: 30px;
+}

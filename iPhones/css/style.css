@@ -98,3 +98,11 @@ S {
   background-color: darkblue;
 }
 
+note {
+	color:white;
+	font-size: 25px;
+	left: 390px;
+	top: 240px;
+  	position: absolute;
+}
+
