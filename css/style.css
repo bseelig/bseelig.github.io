@@ -115,7 +115,7 @@ marquee {
  position: absolute;
  bottom: 0px;
   font-size: 30px;
-  left: -800px;
+  right: 0px;
   width: 2500px;
   color: white;
 }
