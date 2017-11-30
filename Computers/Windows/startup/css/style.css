@@ -16,6 +16,7 @@ h1 {
   width: 93%;
   position: relative;
   left: 14%;
+  top: 0px;
   
 }
 
@@ -57,7 +58,7 @@ e {
   font-size: 25px;
   position: absolute;
   left: 395px;
-  top: 95px;
+  top: 212px;
    text-decoration: none;
    background-color: darkblue;
 }
@@ -93,7 +94,7 @@ S {
 bu {
   color: white;
   position: absolute;
-  top: 173px;
+  top: 282px;
   left: 394px;
   font-size: 24px;
   background-color: darkblue;
@@ -105,13 +106,13 @@ v {
   font-size: 310px;
   background-color: black;
   position: absolute;
-  top: 63px;
+  top: 163px;
   right: 359p;
 }
 bn {
   color: white;
   position: absolute;
-  top: 173px;
+  top: 283px;
   left: 144px;
   font-size: 24px;
   background-color: darkblue;

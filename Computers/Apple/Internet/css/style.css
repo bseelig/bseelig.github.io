@@ -1,7 +1,7 @@
 body {
   border: 0px;
   height: 593px;
-  width: 1600px;
+  width: 1000px;
   border-style: solid;
   border-width: 0px;
   margin: 0px;
@@ -15,7 +15,7 @@ h1 {
   height: 1%;
   width: 93%;
   position: relative;
-  left: 4%;
+  left: 14%;
   text-decoration: none;
 }
 
@@ -36,8 +36,8 @@ S {
   color: white;
   text-decoration: none;
   position: absolute;
-  top: 22px;
-  left: 252px;
+  top: 135px;
+  left: 232px;
   font-size: 33px;
   color: yellow;
   width: 950px;
@@ -53,7 +53,7 @@ ho {
   left: -36px;
   font-size: 31px;
   top: -30px;
-  color: blue;
+  color: black;
 }
 
 at {
@@ -61,8 +61,8 @@ at {
   color: white;
   background-color: darkblue;
   position: absolute;
-  left: 200px;
-  top: 250px;
+  left: 230px;
+  top: 290px;
 }
 
 n {
@@ -80,8 +80,8 @@ p1 {
   color: yellow;
   font-size: 28px;
   position: absolute;
-  top: 122px;
-  left: 250px;
+  top: 192px;
+  left: 230px;
   width: 500px;
 }
 
@@ -99,16 +99,16 @@ adb {
   color: white;
   background-color: darkblue;
   position: absolute;
-  left: 200px;
-  top: 370px;
+  left: 230px;
+  top: 400px;
 }
 
 ad {
   font-size: 28px;
   color: yellow;
   position: absolute;
-  left: 500px;
-  top: 370px;
+  left: 470px;
+  top: 400px;
 }
 
 atw {
@@ -121,17 +121,17 @@ atw {
 
 f {
   color: yellow;
-  top: 433px;
+  top: 453px;
   position: absolute;
-  left: 210px;
+  left: 230px;
   font-size: 30px;
 }
 
 inst {
   color: yellow;
   position: absolute;
-  left: 210px;
-  top: 300px;
+  left: 230px;
+  top: 340px;
   font-size: 23px;
   width: 830px;
 }

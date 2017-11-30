@@ -56,7 +56,7 @@ e {
   font-size: 25px;
   position: absolute;
   left: 395px;
-  top: 95px;
+  top: 210px;
    text-decoration: none;
    background-color: darkblue;
 }
@@ -92,7 +92,7 @@ S {
 f {
   color: white;
   position: absolute;
-  top: 155px;
+  top: 258px;
   font-size: 25px;
   left: 135px;
   width: 173px;
@@ -105,7 +105,7 @@ f {
 v {
 color: white;
   position: absolute;
-  top: 243px;
+  top: 337px;
   font-size: 25px;
   left: 105px;
   width: 270px;
@@ -120,7 +120,7 @@ u {
   font-size: 25px;
   position: absolute;
   left: 394px;
-  top: 240px;
+  top: 337px;
   width: 260px;
 }
 
@@ -138,7 +138,7 @@ fr {
 rdt {
   left: 395px;
   position: absolute;
-  top: 150px;
+  top: 256px;
   font-size: 25px;
   width: 245px;
   background-color: darkblue;
@@ -151,7 +151,7 @@ is {
   background-color: darkblue;
   left: 115px;
   position: absolute;
-  top: 325px;
+  top: 415px;
   font-size: 27px;
   width: 260px;
 }

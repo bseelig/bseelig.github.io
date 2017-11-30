@@ -52,7 +52,7 @@ ho {
   left: -80px;
   font-size: 31px;
   top: -30px;
-  color: blue;
+  color: black;
 }
 
 at {
@@ -61,7 +61,7 @@ at {
   background-color: darkblue;
   position: absolute;
   left: 200px;
-  top: 150px;
+  top: 270px;
 }
 
 cm {
@@ -70,14 +70,14 @@ cm {
   background-color: darkblue;
   position: absolute;
   left: 200px;
-  top: 210px;
+  top: 340px;
 }
 
 n {
   color: white;
   text-decoration: none;
   position: absolute;
-  top: 272px;
+  top: 412px;
   left: 152px;
   font-size: 23px;
   color: yellow;
@@ -90,5 +90,13 @@ second {
   position: absolute;
   font-size: 27px;
   left: 150px;
-  top: 380px;
+  top: 500px;
+}
+
+note {
+  color: yellow;
+  position: absolute;
+  font-size: 27px;
+  left: 430px;
+  top: 270px;
 }

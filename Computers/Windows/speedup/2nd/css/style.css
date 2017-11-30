@@ -15,7 +15,7 @@ h1 {
   height: 1%;
   width: 93%;
   position: relative;
-  left: 14%;
+  left: 34%;
   text-decoration: none;
 }
 
@@ -27,7 +27,7 @@ row {
 
 div.column {
   float: left;
-  width: 40%;
+  width: 20%;
   border: px solid;
   padding: 1px;
 }
@@ -37,7 +37,7 @@ S {
   text-decoration: none;
   position: relative;
   top: 22px;
-  right: 152px;
+  left: 38px;
   font-size: 33px;
   color: yellow;
 }
@@ -52,7 +52,7 @@ ho {
   left: -80px;
   font-size: 31px;
   top: -30px;
-  color: blue;
+  color: black;
 }
 
 at {
@@ -60,8 +60,8 @@ at {
   color: white;
   background-color: darkblue;
   position: absolute;
-  left: 200px;
-  top: 150px;
+  left: 240px;
+  top: 200px;
 }
 
 cm {
@@ -69,8 +69,8 @@ cm {
   color: white;
   background-color: darkblue;
   position: absolute;
-  left: 200px;
-  top: 210px;
+  left: 240px;
+  top: 260px;
 }
 
 n {
@@ -78,8 +78,8 @@ n {
   background-color: darkblue;
   text-decoration: none;
   position: absolute;
-  top: 272px;
-  left: 200px;
+  top: 322px;
+  left: 240px;
   font-size: 27px;
 }
 
@@ -88,8 +88,8 @@ second {
   background-color: darkblue;
   position: absolute;
   font-size: 27px;
-  left: 200px;
-  top: 330px;
+  left: 240px;
+  top: 380px;
 }
 
 section {
@@ -97,8 +97,8 @@ section {
   background-color: darkblue;
   position: absolute;
   font-size: 27px;
-  left: 200px;
-  top: 390px;
+  left: 240px;
+  top: 440px;
   width: 900px;
 }
 
@@ -107,19 +107,100 @@ boost {
   background-color: darkblue;
   position: absolute;
   font-size: 27px;
-  left: 200px;
-  top: 510px;
+  left: 240px;
+  top: 560px;
 }
 
 note {
   color: yellow;
   position: absolute;
   font-size: 27px;
-  left: 200px;
-  top: 570px;
+  left: 240px;
+  top: 610px;
 }
 
 c {
   position: absolute;
-  top: 870px;
+  top: 1770px;
+}
+
+ntwo {
+   color: yellow;
+  position: absolute;
+  font-size: 27px;
+  left: 240px;
+  top: 660px;
+}
+
+sone {
+  color: white;
+  background-color: darkblue;
+  position: absolute;
+  font-size: 27px;
+  left: 240px;
+  top: 720px;
+}
+
+stwo {
+  color: white;
+  background-color: darkblue;
+  position: absolute;
+  font-size: 27px;
+  left: 240px;
+  top: 780px;
+}
+
+sthree {
+  color: white;
+  background-color: darkblue;
+  position: absolute;
+  font-size: 27px;
+  left: 240px;
+  top: 840px;
+}
+
+sfour {
+  color: white;
+  background-color: darkblue;
+  position: absolute;
+  font-size: 27px;
+  left: 240px;
+  top: 900px;
+}
+
+ssix {
+  color: white;
+  background-color: darkblue;
+  position: absolute;
+  font-size: 27px;
+  left: 240px;
+  top: 960px;
+  width: 740px;
+}
+
+sseven {
+  color: white;
+  background-color: darkblue;
+  position: absolute;
+  font-size: 27px;
+  left: 240px;
+  top: 1050px;
+}
+
+seight {
+  color: white;
+  background-color: darkblue;
+  position: absolute;
+  font-size: 27px;
+  left: 240px;
+  top: 1110px;
+  width: 740px;
+}
+
+nthree {
+  color: yellow;
+  position: absolute;
+  font-size: 27px;
+  left: 240px;
+  top: 1200px;
 }

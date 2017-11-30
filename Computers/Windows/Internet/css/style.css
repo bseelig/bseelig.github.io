@@ -1,11 +1,8 @@
 body {
   border: 0px;
-  height: 593px;
-  width: 1600px;
+  height: 793px;
+  width: 1000px;
   border-style: solid;
-  border-width: 0px;
-  margin: 0px;
-  overflow: scroll;
   background-color: black;
 }
 
@@ -15,7 +12,7 @@ h1 {
   height: 1%;
   width: 93%;
   position: relative;
-  left: 4%;
+  left: 14%;
   text-decoration: none;
 }
 
@@ -36,7 +33,7 @@ S {
   color: white;
   text-decoration: none;
   position: absolute;
-  top: 22px;
+  top: 146px;
   left: 252px;
   font-size: 33px;
   color: yellow;
@@ -53,7 +50,7 @@ ho {
   left: -36px;
   font-size: 31px;
   top: -30px;
-  color: blue;
+  color: black;
 }
 
 at {
@@ -62,7 +59,7 @@ at {
   background-color: darkblue;
   position: absolute;
   left: 200px;
-  top: 250px;
+  top: 300px;
 }
 
 n {
@@ -80,7 +77,7 @@ p1 {
   color: yellow;
   font-size: 28px;
   position: absolute;
-  top: 122px;
+  top: 202px;
   left: 250px;
   width: 500px;
 }
@@ -91,7 +88,7 @@ gc {
   background-color: darkblue;
   position: absolute;
   left: 200px;
-  top: 310px;
+  top: 360px;
 }
 
 adb {
@@ -100,7 +97,7 @@ adb {
   background-color: darkblue;
   position: absolute;
   left: 200px;
-  top: 370px;
+  top: 420px;
 }
 
 ad {
@@ -108,20 +105,20 @@ ad {
   color: yellow;
   position: absolute;
   left: 500px;
-  top: 370px;
+  top: 420px;
 }
 
 atw {
   color:  yellow;
   font-size: 27px;
-  top: 313px;
+  top: 360px;
   position: absolute;
   left: 430px;
 }
 
 f {
   color: yellow;
-  top: 433px;
+  top: 483px;
   position: absolute;
   left: 210px;
   font-size: 30px;
