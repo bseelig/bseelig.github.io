@@ -151,7 +151,17 @@ is {
   background-color: darkblue;
   left: 115px;
   position: absolute;
-  top: 415px;
+  top: 435px;
   font-size: 27px;
   width: 260px;
+}
+
+bbrr {
+  color: white;
+  background-color: darkblue;
+  left: 398px;
+  position: absolute;
+  top: 415px;
+  font-size: 27px;
+  width: 270px;
 }
