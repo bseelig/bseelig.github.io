@@ -1,0 +1,84 @@
+body {
+  border: 0px ;
+  height: 593px;
+  width: 1000px;
+  border-style: solid;
+  border-width: 1px;
+  margin: 0px;
+  overflow: scroll;
+  background-color: black;
+}
+
+row {
+  margin: 0 auto;
+  max-width: 1200px;
+  overflow: hidden;
+}
+
+div.column {
+  float: left;
+  width: 40%;
+  border: px solid;
+  padding: 1px;
+}
+
+h1{
+  left: 50px;
+  position: relative;
+}
+
+e {
+  color: white;
+  font-size: 25px;
+  height: 5% solid;
+  width: 46% solid;
+  position: relative;
+  left: 134px;
+  bottom: -15px;
+}
+ c {
+  color: white;
+  font-size: 25px;
+  position: absolute;
+  left: 395px;
+  top: 600px;
+   text-decoration: none;
+   background-color: darkblue;
+   
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+}  
+
+n {
+  color: yellow;
+  font-size: 30px;
+  position: absolute;
+  left: 289px;
+  top: 40px;
+  width: 959px;
+}
+
+img {
+   position: absolute;
+  left: 295px;
+  width: 450px;
+  top: 190px;
+}
+
+H {
+  color: yellow;
+   position: absolute;
+  left: 290px;
+  font-size: 29px;
+}
+
+note {
+  color: yellow;
+   position: absolute;
+  left: 290px;
+  font-size: 29px;
+  top: 500px;
+}
