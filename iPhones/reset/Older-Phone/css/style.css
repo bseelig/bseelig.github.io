@@ -1,7 +1,7 @@
 body {
   border: 0px ;
   height: 593px;
-  width: 920px;
+  width: 1000px;
   border-style: solid;
   border-width: 0px;
   margin: 0px;
@@ -15,8 +15,7 @@ h1 {
   height: 1%;
   width: 93%;
   position: relative;
-  left: 44px;
-  top: 10px;
+  left: 14%;
   
 }
 
@@ -28,14 +27,14 @@ row {
 
 div.column {
   float: left;
-  width: 100%;
+  width: 40%;
   border: px solid;
   padding: 1px;
 }
 
 d {
   position: relative;
-  left: 340px;
+  left: 240px;
   bottom: 4px;  
   display: block;
   top: 33px;
@@ -48,7 +47,7 @@ d {
 
 se {
   position: relative;
-  left: 345px;
+  left: 245px;
   bottom: 4px;  
   display: block;
   top: -203px;
@@ -60,7 +59,7 @@ se {
 
 bt {
   position: relative;
-  left: 399px;
+  left: 299px;
   bottom: 4px;  
   display: block;
   top: -200px;
@@ -71,7 +70,7 @@ bt {
 }
 bg {
   position: relative;
-  left: 402px;
+  left: 302px;
   bottom: 4px;  
   display: block;
   top: -218px;
@@ -82,7 +81,7 @@ bg {
 }
 sc {
   position: relative;
-  left: 395px;
+  left: 295px;
   bottom: 4px;  
   display: block;
   top: -462px;
@@ -94,7 +93,7 @@ sc {
 
 c {
   position: relative;
-  left: 383px;
+  left: 283px;
   bottom: 4px;  
   display: block;
   top: -467px;
@@ -138,8 +137,8 @@ span2 {
 S {
   text-decoration: none;
   position: relative;
-  top: -48px;
-  right: -200px;
+  top: 18px;
+  right: 200px;
   font-size: 33px;
   color: yellow;
 }
@@ -148,8 +147,8 @@ l {
   color: red;
   font-size: 29px;
   position:relative;
-  left: 110px;
-  top: -400px;
+  left: 360px;
+  top: -506px;
   width: 346px;
 }
 
@@ -157,7 +156,7 @@ sl {
    color: red;
   font-size: 29px;
   position:relative;
-  left: 490px;
+  left: 390px;
   top: -470px;
   width: 346px;
 }
@@ -166,40 +165,7 @@ he {
    color: red;
   font-size: 29px;
   position:relative;
-  left: 293px;
-  top: -463px;
+  left: 303px;
+  top: -265px;
   width: 346px;
-}
-
-note {
-  position:relative;
-  top: -260px;
-  left: 200px;
-  color: yellow;
-  font-size: 33px;
-}
-
-red {
-  color: #4dffff;
-  font-size: 42px;
-}
-
-seven {
-  background-color: darkblue;
-  color: white;
-  text-decoration: none;
-  font-size: 30px;
-  position:relative;
-  top: -620px;
-  left: 800px;
-}
-
-older {
-  background-color: darkblue;
-  color: white;
-  text-decoration: none;
-  font-size: 30px;
-  position:relative;
-  top: -520px;
-  left: 485px;
 }
